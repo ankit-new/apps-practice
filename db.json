@@ -1,0 +1,13 @@
+{
+  "crudActions": [
+    {
+      "name": "test 1212 asdasdasd",
+      "description": "dasdasd",
+      "category": "dasd",
+      "price": "31",
+      "stock": "3",
+      "sku": "das",
+      "id": "5ae7"
+    }
+  ]
+}
